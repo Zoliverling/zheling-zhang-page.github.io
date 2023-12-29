@@ -14,8 +14,8 @@ redirect_from:
 
 💼 I'm looking for the interns/full time position of Data Scientist/Analyst/Engineer, Business Analyst, and Business Intellogence.
 
-# Publications
 
+# Publications
 ## VV-Couplet: An open source Chinese couplet generation system
   Brief Introduction: In this research, I helped to developing the VV-Couplet system, which is an open-source project for generating Chinese couplets. It's based on an attention-based sequence-to-sequence neural model, ensuring adherence to the specific rules of Chinese couplets. My focus was on enhancing rule learning through a local attention mechanism, offering a unique approach to preserving this cultural heritage.
 
@@ -29,7 +29,6 @@ redirect_from:
 
 
 # Selected Experience
-
 ## Internship
   From September to November 2020, I worked as an intern in the Technology Department at DIB Assessment Management in Beijing, China. I performed in-depth research and gathered financial data for a variety of industry sectors, including new energy vehicles and medicine. In order to help investors make decisions, I provided thorough financial reports that assessed the performance of the targeted investment funds. In addition, I wrote analytical papers and assembled data on Elon Musk and Tesla, which helped the new energy car sector tremendously.
 
