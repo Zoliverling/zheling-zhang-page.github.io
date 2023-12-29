@@ -86,7 +86,7 @@ author:
   location         : "Nashville, TN"
   employer         : "Vanderbilt University DSI"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=-mEpOcgAAAAJ"
   email            : "zheling.zhang@vanderbilt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zhelingzhang07/"
+  linkedin         : "zhelingzhang07"
   orcid            : 
   pinterest        :
   soundcloud       :
