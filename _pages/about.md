@@ -38,8 +38,7 @@ redirect_from:
 
 ## Project
 
-  ### Image-based Kidney Tumor Prediction
-    Brief Introduction: During my undergraduate studies, I used scikit-learn in Jupyter Notebooks to create three advanced models for image-based kidney tumor prediction. These models made use of cutting-edge methods such as Contracting-Expanding segmentation architectures, Squeeze-and-Excite, and Deep Supervision. I trained and validated these models using visual data from CT scans of kidney tumors, which greatly improved their accuracy.
+  *Image-based Kidney Tumor Prediction*: During my undergraduate studies, I used scikit-learn in Jupyter Notebooks to create three advanced models for image-based kidney tumor prediction. These models made use of cutting-edge methods such as Contracting-Expanding segmentation architectures, Squeeze-and-Excite, and Deep Supervision. I trained and validated these models using visual data from CT scans of kidney tumors, which greatly improved their accuracy.
 
   
 
