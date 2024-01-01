@@ -12,7 +12,7 @@ redirect_from:
 
 📍 I'm currently working towards my Master of Data Science.
 
-💼 I'm looking for the interns/full time position of Data Scientist/Analyst/Engineer, Business Analyst, and Business Intellogence.
+💼 I'm looking for the interns/full time position of Data Scientist/Analyst/Engineer, Business Analyst, and Business Intelligence.
 
 
 # 📝 Publications
